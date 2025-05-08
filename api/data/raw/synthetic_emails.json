@@ -1,0 +1,662 @@
+[
+  {
+    "id": "email_1",
+    "content": "From: jane.smith@example.com\nTo: matthew.martinez@example.com\nSubject: Deployment Schedule Update\nDate: Mon, 03 Mar 2025 01:20:36 \n\nHello matthew.martinez@example.com,\n\nThe deployment schedule update has been completed. All tests are passing, and the documentation has been updated accordingly. You can find the latest version in the repository.\n\nPlease review when you have a chance and let me know if any changes are needed.\n\nThanks,\njane.smith@example.com",
+    "metadata": {
+      "subject": "Deployment Schedule Update",
+      "sender": "jane.smith@example.com",
+      "recipient": "matthew.martinez@example.com",
+      "date": "Mon, 03 Mar 2025 01:20:36 ",
+      "topic": "technical"
+    }
+  },
+  {
+    "id": "email_2",
+    "content": "From: sarah.davis@example.com\nTo: olivia.thomas@example.com\nSubject: Happy Birthday!\nDate: Fri, 21 Mar 2025 01:20:36 \n\nDear olivia.thomas@example.com,\n\nI wanted to reach out regarding the happy birthday!. I've been thinking about it a lot lately and would appreciate your input.\n\nCould we schedule a call to discuss it further?\n\nTake care,\nsarah.davis@example.com",
+    "metadata": {
+      "subject": "Happy Birthday!",
+      "sender": "sarah.davis@example.com",
+      "recipient": "olivia.thomas@example.com",
+      "date": "Fri, 21 Mar 2025 01:20:36 ",
+      "topic": "personal"
+    }
+  },
+  {
+    "id": "email_3",
+    "content": "From: michael.johnson@example.com\nTo: alex.anderson@example.com\nSubject: Lunch Next Week?\nDate: Thu, 13 Feb 2025 01:20:36 \n\nHi alex.anderson@example.com,\n\nI hope this email finds you well! I'm excited about the upcoming lunch next week? and wanted to see if you're planning to attend.\n\nIt would be great to see you there. Let me know your thoughts.\n\nBest wishes,\nmichael.johnson@example.com",
+    "metadata": {
+      "subject": "Lunch Next Week?",
+      "sender": "michael.johnson@example.com",
+      "recipient": "alex.anderson@example.com",
+      "date": "Thu, 13 Feb 2025 01:20:36 ",
+      "topic": "personal"
+    }
+  },
+  {
+    "id": "email_4",
+    "content": "From: emily.williams@example.com\nTo: emma.martin@example.com\nSubject: Project Status Update\nDate: Tue, 14 Jan 2025 01:20:36 \n\nHello emma.martin@example.com,\n\nI'm writing to follow up on the project status update. The executive team has reviewed our proposal and provided some feedback that we should incorporate before the final submission.\n\nCould we connect tomorrow to go through these changes?\n\nRegards,\nemily.williams@example.com",
+    "metadata": {
+      "subject": "Project Status Update",
+      "sender": "emily.williams@example.com",
+      "recipient": "emma.martin@example.com",
+      "date": "Tue, 14 Jan 2025 01:20:36 ",
+      "topic": "business"
+    }
+  },
+  {
+    "id": "email_5",
+    "content": "From: david.miller@example.com\nTo: sophia.white@example.com\nSubject: Deployment Schedule Update\nDate: Tue, 18 Mar 2025 01:20:36 \n\nHello sophia.white@example.com,\n\nThe deployment schedule update has been completed. All tests are passing, and the documentation has been updated accordingly. You can find the latest version in the repository.\n\nPlease review when you have a chance and let me know if any changes are needed.\n\nThanks,\ndavid.miller@example.com",
+    "metadata": {
+      "subject": "Deployment Schedule Update",
+      "sender": "david.miller@example.com",
+      "recipient": "sophia.white@example.com",
+      "date": "Tue, 18 Mar 2025 01:20:36 ",
+      "topic": "technical"
+    }
+  },
+  {
+    "id": "email_6",
+    "content": "From: jennifer.wilson@example.com\nTo: alex.anderson@example.com\nSubject: Happy Birthday!\nDate: Sun, 10 Nov 2024 01:20:36 \n\nDear alex.anderson@example.com,\n\nI wanted to reach out regarding the happy birthday!. I've been thinking about it a lot lately and would appreciate your input.\n\nCould we schedule a call to discuss it further?\n\nTake care,\njennifer.wilson@example.com",
+    "metadata": {
+      "subject": "Happy Birthday!",
+      "sender": "jennifer.wilson@example.com",
+      "recipient": "alex.anderson@example.com",
+      "date": "Sun, 10 Nov 2024 01:20:36 ",
+      "topic": "personal"
+    }
+  },
+  {
+    "id": "email_7",
+    "content": "From: michael.johnson@example.com\nTo: emma.martin@example.com\nSubject: Budget Approval Request\nDate: Fri, 07 Mar 2025 01:20:36 \n\nHello emma.martin@example.com,\n\nI'm writing to follow up on the budget approval request. The executive team has reviewed our proposal and provided some feedback that we should incorporate before the final submission.\n\nCould we connect tomorrow to go through these changes?\n\nRegards,\nmichael.johnson@example.com",
+    "metadata": {
+      "subject": "Budget Approval Request",
+      "sender": "michael.johnson@example.com",
+      "recipient": "emma.martin@example.com",
+      "date": "Fri, 07 Mar 2025 01:20:36 ",
+      "topic": "business"
+    }
+  },
+  {
+    "id": "email_8",
+    "content": "From: emily.williams@example.com\nTo: james.jackson@example.com\nSubject: Lunch Next Week?\nDate: Mon, 10 Feb 2025 01:20:36 \n\nDear james.jackson@example.com,\n\nI wanted to reach out regarding the lunch next week?. I've been thinking about it a lot lately and would appreciate your input.\n\nCould we schedule a call to discuss it further?\n\nTake care,\nemily.williams@example.com",
+    "metadata": {
+      "subject": "Lunch Next Week?",
+      "sender": "emily.williams@example.com",
+      "recipient": "james.jackson@example.com",
+      "date": "Mon, 10 Feb 2025 01:20:36 ",
+      "topic": "personal"
+    }
+  },
+  {
+    "id": "email_9",
+    "content": "From: sarah.davis@example.com\nTo: sophia.white@example.com\nSubject: Vacation Plans\nDate: Mon, 09 Dec 2024 01:20:36 \n\nDear sophia.white@example.com,\n\nI wanted to reach out regarding the vacation plans. I've been thinking about it a lot lately and would appreciate your input.\n\nCould we schedule a call to discuss it further?\n\nTake care,\nsarah.davis@example.com",
+    "metadata": {
+      "subject": "Vacation Plans",
+      "sender": "sarah.davis@example.com",
+      "recipient": "sophia.white@example.com",
+      "date": "Mon, 09 Dec 2024 01:20:36 ",
+      "topic": "personal"
+    }
+  },
+  {
+    "id": "email_10",
+    "content": "From: jane.smith@example.com\nTo: emma.martin@example.com\nSubject: Vacation Plans\nDate: Sat, 21 Dec 2024 01:20:36 \n\nDear emma.martin@example.com,\n\nI wanted to reach out regarding the vacation plans. I've been thinking about it a lot lately and would appreciate your input.\n\nCould we schedule a call to discuss it further?\n\nTake care,\njane.smith@example.com",
+    "metadata": {
+      "subject": "Vacation Plans",
+      "sender": "jane.smith@example.com",
+      "recipient": "emma.martin@example.com",
+      "date": "Sat, 21 Dec 2024 01:20:36 ",
+      "topic": "personal"
+    }
+  },
+  {
+    "id": "email_11",
+    "content": "From: john.doe@example.com\nTo: sophia.white@example.com\nSubject: Congratulations on Your Promotion\nDate: Fri, 17 Jan 2025 01:20:36 \n\nHi sophia.white@example.com,\n\nI hope this email finds you well! I'm excited about the upcoming congratulations on your promotion and wanted to see if you're planning to attend.\n\nIt would be great to see you there. Let me know your thoughts.\n\nBest wishes,\njohn.doe@example.com",
+    "metadata": {
+      "subject": "Congratulations on Your Promotion",
+      "sender": "john.doe@example.com",
+      "recipient": "sophia.white@example.com",
+      "date": "Fri, 17 Jan 2025 01:20:36 ",
+      "topic": "personal"
+    }
+  },
+  {
+    "id": "email_12",
+    "content": "From: david.miller@example.com\nTo: matthew.martinez@example.com\nSubject: Vacation Plans\nDate: Tue, 17 Dec 2024 01:20:36 \n\nHi matthew.martinez@example.com,\n\nI hope this email finds you well! I'm excited about the upcoming vacation plans and wanted to see if you're planning to attend.\n\nIt would be great to see you there. Let me know your thoughts.\n\nBest wishes,\ndavid.miller@example.com",
+    "metadata": {
+      "subject": "Vacation Plans",
+      "sender": "david.miller@example.com",
+      "recipient": "matthew.martinez@example.com",
+      "date": "Tue, 17 Dec 2024 01:20:36 ",
+      "topic": "personal"
+    }
+  },
+  {
+    "id": "email_13",
+    "content": "From: william.moore@example.com\nTo: ava.garcia@example.com\nSubject: Deployment Schedule Update\nDate: Thu, 30 Jan 2025 01:20:36 \n\nDear ava.garcia@example.com,\n\nI've reviewed the code for the deployment schedule update and have some suggestions for improvements. The current implementation works, but there are a few optimizations we could make to enhance performance.\n\nLet me know if you'd like to discuss these in more detail.\n\nRegards,\nwilliam.moore@example.com",
+    "metadata": {
+      "subject": "Deployment Schedule Update",
+      "sender": "william.moore@example.com",
+      "recipient": "ava.garcia@example.com",
+      "date": "Thu, 30 Jan 2025 01:20:36 ",
+      "topic": "technical"
+    }
+  },
+  {
+    "id": "email_14",
+    "content": "From: sarah.davis@example.com\nTo: charlotte.robinson@example.com\nSubject: Family Reunion Planning\nDate: Sat, 01 Feb 2025 01:20:36 \n\nDear charlotte.robinson@example.com,\n\nI wanted to reach out regarding the family reunion planning. I've been thinking about it a lot lately and would appreciate your input.\n\nCould we schedule a call to discuss it further?\n\nTake care,\nsarah.davis@example.com",
+    "metadata": {
+      "subject": "Family Reunion Planning",
+      "sender": "sarah.davis@example.com",
+      "recipient": "charlotte.robinson@example.com",
+      "date": "Sat, 01 Feb 2025 01:20:36 ",
+      "topic": "personal"
+    }
+  },
+  {
+    "id": "email_15",
+    "content": "From: david.miller@example.com\nTo: ava.garcia@example.com\nSubject: Happy Birthday!\nDate: Mon, 31 Mar 2025 01:20:36 \n\nHey ava.garcia@example.com,\n\nJust wanted to check in about happy birthday!. It's been a while since we caught up, and I'd love to hear how you're doing.\n\nWould you be free for coffee sometime next week?\n\nCheers,\ndavid.miller@example.com",
+    "metadata": {
+      "subject": "Happy Birthday!",
+      "sender": "david.miller@example.com",
+      "recipient": "ava.garcia@example.com",
+      "date": "Mon, 31 Mar 2025 01:20:36 ",
+      "topic": "personal"
+    }
+  },
+  {
+    "id": "email_16",
+    "content": "From: emily.williams@example.com\nTo: sophia.white@example.com\nSubject: Meeting Minutes: Strategic Planning\nDate: Fri, 02 May 2025 01:20:36 \n\nHello sophia.white@example.com,\n\nI'm writing to follow up on the meeting minutes: strategic planning. The executive team has reviewed our proposal and provided some feedback that we should incorporate before the final submission.\n\nCould we connect tomorrow to go through these changes?\n\nRegards,\nemily.williams@example.com",
+    "metadata": {
+      "subject": "Meeting Minutes: Strategic Planning",
+      "sender": "emily.williams@example.com",
+      "recipient": "sophia.white@example.com",
+      "date": "Fri, 02 May 2025 01:20:36 ",
+      "topic": "business"
+    }
+  },
+  {
+    "id": "email_17",
+    "content": "From: michael.johnson@example.com\nTo: benjamin.harris@example.com\nSubject: Vacation Plans\nDate: Sun, 27 Apr 2025 01:20:36 \n\nDear benjamin.harris@example.com,\n\nI wanted to reach out regarding the vacation plans. I've been thinking about it a lot lately and would appreciate your input.\n\nCould we schedule a call to discuss it further?\n\nTake care,\nmichael.johnson@example.com",
+    "metadata": {
+      "subject": "Vacation Plans",
+      "sender": "michael.johnson@example.com",
+      "recipient": "benjamin.harris@example.com",
+      "date": "Sun, 27 Apr 2025 01:20:36 ",
+      "topic": "personal"
+    }
+  },
+  {
+    "id": "email_18",
+    "content": "From: robert.brown@example.com\nTo: daniel.thompson@example.com\nSubject: Happy Birthday!\nDate: Sun, 08 Dec 2024 01:20:36 \n\nHi daniel.thompson@example.com,\n\nI hope this email finds you well! I'm excited about the upcoming happy birthday! and wanted to see if you're planning to attend.\n\nIt would be great to see you there. Let me know your thoughts.\n\nBest wishes,\nrobert.brown@example.com",
+    "metadata": {
+      "subject": "Happy Birthday!",
+      "sender": "robert.brown@example.com",
+      "recipient": "daniel.thompson@example.com",
+      "date": "Sun, 08 Dec 2024 01:20:36 ",
+      "topic": "personal"
+    }
+  },
+  {
+    "id": "email_19",
+    "content": "From: jane.smith@example.com\nTo: alex.anderson@example.com\nSubject: Quarterly Business Review\nDate: Sun, 15 Dec 2024 01:20:36 \n\nHello alex.anderson@example.com,\n\nI'm writing to follow up on the quarterly business review. The executive team has reviewed our proposal and provided some feedback that we should incorporate before the final submission.\n\nCould we connect tomorrow to go through these changes?\n\nRegards,\njane.smith@example.com",
+    "metadata": {
+      "subject": "Quarterly Business Review",
+      "sender": "jane.smith@example.com",
+      "recipient": "alex.anderson@example.com",
+      "date": "Sun, 15 Dec 2024 01:20:36 ",
+      "topic": "business"
+    }
+  },
+  {
+    "id": "email_20",
+    "content": "From: david.miller@example.com\nTo: alex.anderson@example.com\nSubject: Congratulations on Your Promotion\nDate: Fri, 21 Mar 2025 01:20:36 \n\nHi alex.anderson@example.com,\n\nI hope this email finds you well! I'm excited about the upcoming congratulations on your promotion and wanted to see if you're planning to attend.\n\nIt would be great to see you there. Let me know your thoughts.\n\nBest wishes,\ndavid.miller@example.com",
+    "metadata": {
+      "subject": "Congratulations on Your Promotion",
+      "sender": "david.miller@example.com",
+      "recipient": "alex.anderson@example.com",
+      "date": "Fri, 21 Mar 2025 01:20:36 ",
+      "topic": "personal"
+    }
+  },
+  {
+    "id": "email_21",
+    "content": "From: jane.smith@example.com\nTo: james.jackson@example.com\nSubject: Code Review Feedback\nDate: Thu, 14 Nov 2024 01:20:36 \n\nHello james.jackson@example.com,\n\nThe code review feedback has been completed. All tests are passing, and the documentation has been updated accordingly. You can find the latest version in the repository.\n\nPlease review when you have a chance and let me know if any changes are needed.\n\nThanks,\njane.smith@example.com",
+    "metadata": {
+      "subject": "Code Review Feedback",
+      "sender": "jane.smith@example.com",
+      "recipient": "james.jackson@example.com",
+      "date": "Thu, 14 Nov 2024 01:20:36 ",
+      "topic": "technical"
+    }
+  },
+  {
+    "id": "email_22",
+    "content": "From: emily.williams@example.com\nTo: olivia.thomas@example.com\nSubject: Lunch Next Week?\nDate: Mon, 14 Apr 2025 01:20:36 \n\nDear olivia.thomas@example.com,\n\nI wanted to reach out regarding the lunch next week?. I've been thinking about it a lot lately and would appreciate your input.\n\nCould we schedule a call to discuss it further?\n\nTake care,\nemily.williams@example.com",
+    "metadata": {
+      "subject": "Lunch Next Week?",
+      "sender": "emily.williams@example.com",
+      "recipient": "olivia.thomas@example.com",
+      "date": "Mon, 14 Apr 2025 01:20:36 ",
+      "topic": "personal"
+    }
+  },
+  {
+    "id": "email_23",
+    "content": "From: sarah.davis@example.com\nTo: alex.anderson@example.com\nSubject: Vacation Plans\nDate: Fri, 04 Apr 2025 01:20:36 \n\nHi alex.anderson@example.com,\n\nI hope this email finds you well! I'm excited about the upcoming vacation plans and wanted to see if you're planning to attend.\n\nIt would be great to see you there. Let me know your thoughts.\n\nBest wishes,\nsarah.davis@example.com",
+    "metadata": {
+      "subject": "Vacation Plans",
+      "sender": "sarah.davis@example.com",
+      "recipient": "alex.anderson@example.com",
+      "date": "Fri, 04 Apr 2025 01:20:36 ",
+      "topic": "personal"
+    }
+  },
+  {
+    "id": "email_24",
+    "content": "From: robert.brown@example.com\nTo: matthew.martinez@example.com\nSubject: API Documentation Update\nDate: Fri, 14 Mar 2025 01:20:36 \n\nDear matthew.martinez@example.com,\n\nI've reviewed the code for the api documentation update and have some suggestions for improvements. The current implementation works, but there are a few optimizations we could make to enhance performance.\n\nLet me know if you'd like to discuss these in more detail.\n\nRegards,\nrobert.brown@example.com",
+    "metadata": {
+      "subject": "API Documentation Update",
+      "sender": "robert.brown@example.com",
+      "recipient": "matthew.martinez@example.com",
+      "date": "Fri, 14 Mar 2025 01:20:36 ",
+      "topic": "technical"
+    }
+  },
+  {
+    "id": "email_25",
+    "content": "From: robert.brown@example.com\nTo: olivia.thomas@example.com\nSubject: System Outage Notification\nDate: Sun, 09 Feb 2025 01:20:36 \n\nDear olivia.thomas@example.com,\n\nI've reviewed the code for the system outage notification and have some suggestions for improvements. The current implementation works, but there are a few optimizations we could make to enhance performance.\n\nLet me know if you'd like to discuss these in more detail.\n\nRegards,\nrobert.brown@example.com",
+    "metadata": {
+      "subject": "System Outage Notification",
+      "sender": "robert.brown@example.com",
+      "recipient": "olivia.thomas@example.com",
+      "date": "Sun, 09 Feb 2025 01:20:36 ",
+      "topic": "technical"
+    }
+  },
+  {
+    "id": "email_26",
+    "content": "From: lisa.taylor@example.com\nTo: alex.anderson@example.com\nSubject: System Outage Notification\nDate: Sat, 01 Feb 2025 01:20:36 \n\nHi alex.anderson@example.com,\n\nI'm reaching out regarding the system outage notification. We've identified a critical issue in the production environment that needs immediate attention. The team is currently working on a fix and will deploy it as soon as it's ready.\n\nI'll keep you updated on the progress.\n\nBest,\nlisa.taylor@example.com",
+    "metadata": {
+      "subject": "System Outage Notification",
+      "sender": "lisa.taylor@example.com",
+      "recipient": "alex.anderson@example.com",
+      "date": "Sat, 01 Feb 2025 01:20:36 ",
+      "topic": "technical"
+    }
+  },
+  {
+    "id": "email_27",
+    "content": "From: lisa.taylor@example.com\nTo: alex.anderson@example.com\nSubject: New Client Opportunity\nDate: Mon, 30 Dec 2024 01:20:36 \n\nDear alex.anderson@example.com,\n\nI wanted to provide an update on our current business activities. new client opportunity is progressing well, and we're on track to meet our quarterly targets. The team has been working diligently to ensure all deliverables are met on time.\n\nPlease review the attached documents and let me know if you have any questions or concerns.\n\nBest regards,\nlisa.taylor@example.com",
+    "metadata": {
+      "subject": "New Client Opportunity",
+      "sender": "lisa.taylor@example.com",
+      "recipient": "alex.anderson@example.com",
+      "date": "Mon, 30 Dec 2024 01:20:36 ",
+      "topic": "business"
+    }
+  },
+  {
+    "id": "email_28",
+    "content": "From: john.doe@example.com\nTo: matthew.martinez@example.com\nSubject: API Documentation Update\nDate: Fri, 17 Jan 2025 01:20:36 \n\nHello matthew.martinez@example.com,\n\nThe api documentation update has been completed. All tests are passing, and the documentation has been updated accordingly. You can find the latest version in the repository.\n\nPlease review when you have a chance and let me know if any changes are needed.\n\nThanks,\njohn.doe@example.com",
+    "metadata": {
+      "subject": "API Documentation Update",
+      "sender": "john.doe@example.com",
+      "recipient": "matthew.martinez@example.com",
+      "date": "Fri, 17 Jan 2025 01:20:36 ",
+      "topic": "technical"
+    }
+  },
+  {
+    "id": "email_29",
+    "content": "From: emily.williams@example.com\nTo: sophia.white@example.com\nSubject: Lunch Next Week?\nDate: Sat, 25 Jan 2025 01:20:36 \n\nHi sophia.white@example.com,\n\nI hope this email finds you well! I'm excited about the upcoming lunch next week? and wanted to see if you're planning to attend.\n\nIt would be great to see you there. Let me know your thoughts.\n\nBest wishes,\nemily.williams@example.com",
+    "metadata": {
+      "subject": "Lunch Next Week?",
+      "sender": "emily.williams@example.com",
+      "recipient": "sophia.white@example.com",
+      "date": "Sat, 25 Jan 2025 01:20:36 ",
+      "topic": "personal"
+    }
+  },
+  {
+    "id": "email_30",
+    "content": "From: jennifer.wilson@example.com\nTo: matthew.martinez@example.com\nSubject: System Outage Notification\nDate: Mon, 18 Nov 2024 01:20:36 \n\nHello matthew.martinez@example.com,\n\nThe system outage notification has been completed. All tests are passing, and the documentation has been updated accordingly. You can find the latest version in the repository.\n\nPlease review when you have a chance and let me know if any changes are needed.\n\nThanks,\njennifer.wilson@example.com",
+    "metadata": {
+      "subject": "System Outage Notification",
+      "sender": "jennifer.wilson@example.com",
+      "recipient": "matthew.martinez@example.com",
+      "date": "Mon, 18 Nov 2024 01:20:36 ",
+      "topic": "technical"
+    }
+  },
+  {
+    "id": "email_31",
+    "content": "From: robert.brown@example.com\nTo: alex.anderson@example.com\nSubject: Code Review Feedback\nDate: Tue, 26 Nov 2024 01:20:36 \n\nHi alex.anderson@example.com,\n\nI'm reaching out regarding the code review feedback. We've identified a critical issue in the production environment that needs immediate attention. The team is currently working on a fix and will deploy it as soon as it's ready.\n\nI'll keep you updated on the progress.\n\nBest,\nrobert.brown@example.com",
+    "metadata": {
+      "subject": "Code Review Feedback",
+      "sender": "robert.brown@example.com",
+      "recipient": "alex.anderson@example.com",
+      "date": "Tue, 26 Nov 2024 01:20:36 ",
+      "topic": "technical"
+    }
+  },
+  {
+    "id": "email_32",
+    "content": "From: michael.johnson@example.com\nTo: alex.anderson@example.com\nSubject: Project Status Update\nDate: Wed, 23 Apr 2025 01:20:36 \n\nDear alex.anderson@example.com,\n\nI wanted to provide an update on our current business activities. project status update is progressing well, and we're on track to meet our quarterly targets. The team has been working diligently to ensure all deliverables are met on time.\n\nPlease review the attached documents and let me know if you have any questions or concerns.\n\nBest regards,\nmichael.johnson@example.com",
+    "metadata": {
+      "subject": "Project Status Update",
+      "sender": "michael.johnson@example.com",
+      "recipient": "alex.anderson@example.com",
+      "date": "Wed, 23 Apr 2025 01:20:36 ",
+      "topic": "business"
+    }
+  },
+  {
+    "id": "email_33",
+    "content": "From: john.doe@example.com\nTo: charlotte.robinson@example.com\nSubject: Bug Fix Release Notes\nDate: Sat, 12 Apr 2025 01:20:36 \n\nDear charlotte.robinson@example.com,\n\nI've reviewed the code for the bug fix release notes and have some suggestions for improvements. The current implementation works, but there are a few optimizations we could make to enhance performance.\n\nLet me know if you'd like to discuss these in more detail.\n\nRegards,\njohn.doe@example.com",
+    "metadata": {
+      "subject": "Bug Fix Release Notes",
+      "sender": "john.doe@example.com",
+      "recipient": "charlotte.robinson@example.com",
+      "date": "Sat, 12 Apr 2025 01:20:36 ",
+      "topic": "technical"
+    }
+  },
+  {
+    "id": "email_34",
+    "content": "From: john.doe@example.com\nTo: alex.anderson@example.com\nSubject: Vacation Plans\nDate: Thu, 06 Feb 2025 01:20:36 \n\nHi alex.anderson@example.com,\n\nI hope this email finds you well! I'm excited about the upcoming vacation plans and wanted to see if you're planning to attend.\n\nIt would be great to see you there. Let me know your thoughts.\n\nBest wishes,\njohn.doe@example.com",
+    "metadata": {
+      "subject": "Vacation Plans",
+      "sender": "john.doe@example.com",
+      "recipient": "alex.anderson@example.com",
+      "date": "Thu, 06 Feb 2025 01:20:36 ",
+      "topic": "personal"
+    }
+  },
+  {
+    "id": "email_35",
+    "content": "From: emily.williams@example.com\nTo: matthew.martinez@example.com\nSubject: Project Status Update\nDate: Sun, 09 Mar 2025 01:20:36 \n\nDear matthew.martinez@example.com,\n\nI wanted to provide an update on our current business activities. project status update is progressing well, and we're on track to meet our quarterly targets. The team has been working diligently to ensure all deliverables are met on time.\n\nPlease review the attached documents and let me know if you have any questions or concerns.\n\nBest regards,\nemily.williams@example.com",
+    "metadata": {
+      "subject": "Project Status Update",
+      "sender": "emily.williams@example.com",
+      "recipient": "matthew.martinez@example.com",
+      "date": "Sun, 09 Mar 2025 01:20:36 ",
+      "topic": "business"
+    }
+  },
+  {
+    "id": "email_36",
+    "content": "From: william.moore@example.com\nTo: benjamin.harris@example.com\nSubject: Budget Approval Request\nDate: Sun, 02 Feb 2025 01:20:36 \n\nDear benjamin.harris@example.com,\n\nI wanted to provide an update on our current business activities. budget approval request is progressing well, and we're on track to meet our quarterly targets. The team has been working diligently to ensure all deliverables are met on time.\n\nPlease review the attached documents and let me know if you have any questions or concerns.\n\nBest regards,\nwilliam.moore@example.com",
+    "metadata": {
+      "subject": "Budget Approval Request",
+      "sender": "william.moore@example.com",
+      "recipient": "benjamin.harris@example.com",
+      "date": "Sun, 02 Feb 2025 01:20:36 ",
+      "topic": "business"
+    }
+  },
+  {
+    "id": "email_37",
+    "content": "From: john.doe@example.com\nTo: emma.martin@example.com\nSubject: Meeting Minutes: Strategic Planning\nDate: Mon, 02 Dec 2024 01:20:36 \n\nHi emma.martin@example.com,\n\nRegarding the meeting minutes: strategic planning, I've compiled the latest figures and analysis. Our performance this quarter shows a 15% improvement over last quarter, which is encouraging.\n\nWe should schedule a meeting to discuss the implications and next steps. Are you available next week?\n\nThanks,\njohn.doe@example.com",
+    "metadata": {
+      "subject": "Meeting Minutes: Strategic Planning",
+      "sender": "john.doe@example.com",
+      "recipient": "emma.martin@example.com",
+      "date": "Mon, 02 Dec 2024 01:20:36 ",
+      "topic": "business"
+    }
+  },
+  {
+    "id": "email_38",
+    "content": "From: david.miller@example.com\nTo: benjamin.harris@example.com\nSubject: System Outage Notification\nDate: Wed, 20 Nov 2024 01:20:36 \n\nHello benjamin.harris@example.com,\n\nThe system outage notification has been completed. All tests are passing, and the documentation has been updated accordingly. You can find the latest version in the repository.\n\nPlease review when you have a chance and let me know if any changes are needed.\n\nThanks,\ndavid.miller@example.com",
+    "metadata": {
+      "subject": "System Outage Notification",
+      "sender": "david.miller@example.com",
+      "recipient": "benjamin.harris@example.com",
+      "date": "Wed, 20 Nov 2024 01:20:36 ",
+      "topic": "technical"
+    }
+  },
+  {
+    "id": "email_39",
+    "content": "From: jane.smith@example.com\nTo: james.jackson@example.com\nSubject: New Client Opportunity\nDate: Wed, 25 Dec 2024 01:20:36 \n\nDear james.jackson@example.com,\n\nI wanted to provide an update on our current business activities. new client opportunity is progressing well, and we're on track to meet our quarterly targets. The team has been working diligently to ensure all deliverables are met on time.\n\nPlease review the attached documents and let me know if you have any questions or concerns.\n\nBest regards,\njane.smith@example.com",
+    "metadata": {
+      "subject": "New Client Opportunity",
+      "sender": "jane.smith@example.com",
+      "recipient": "james.jackson@example.com",
+      "date": "Wed, 25 Dec 2024 01:20:36 ",
+      "topic": "business"
+    }
+  },
+  {
+    "id": "email_40",
+    "content": "From: william.moore@example.com\nTo: ava.garcia@example.com\nSubject: Meeting Minutes: Strategic Planning\nDate: Fri, 14 Feb 2025 01:20:36 \n\nHi ava.garcia@example.com,\n\nRegarding the meeting minutes: strategic planning, I've compiled the latest figures and analysis. Our performance this quarter shows a 15% improvement over last quarter, which is encouraging.\n\nWe should schedule a meeting to discuss the implications and next steps. Are you available next week?\n\nThanks,\nwilliam.moore@example.com",
+    "metadata": {
+      "subject": "Meeting Minutes: Strategic Planning",
+      "sender": "william.moore@example.com",
+      "recipient": "ava.garcia@example.com",
+      "date": "Fri, 14 Feb 2025 01:20:36 ",
+      "topic": "business"
+    }
+  },
+  {
+    "id": "email_41",
+    "content": "From: david.miller@example.com\nTo: daniel.thompson@example.com\nSubject: New Client Opportunity\nDate: Thu, 10 Apr 2025 01:20:36 \n\nHi daniel.thompson@example.com,\n\nRegarding the new client opportunity, I've compiled the latest figures and analysis. Our performance this quarter shows a 15% improvement over last quarter, which is encouraging.\n\nWe should schedule a meeting to discuss the implications and next steps. Are you available next week?\n\nThanks,\ndavid.miller@example.com",
+    "metadata": {
+      "subject": "New Client Opportunity",
+      "sender": "david.miller@example.com",
+      "recipient": "daniel.thompson@example.com",
+      "date": "Thu, 10 Apr 2025 01:20:36 ",
+      "topic": "business"
+    }
+  },
+  {
+    "id": "email_42",
+    "content": "From: sarah.davis@example.com\nTo: daniel.thompson@example.com\nSubject: Vacation Plans\nDate: Mon, 28 Apr 2025 01:20:36 \n\nHey daniel.thompson@example.com,\n\nJust wanted to check in about vacation plans. It's been a while since we caught up, and I'd love to hear how you're doing.\n\nWould you be free for coffee sometime next week?\n\nCheers,\nsarah.davis@example.com",
+    "metadata": {
+      "subject": "Vacation Plans",
+      "sender": "sarah.davis@example.com",
+      "recipient": "daniel.thompson@example.com",
+      "date": "Mon, 28 Apr 2025 01:20:36 ",
+      "topic": "personal"
+    }
+  },
+  {
+    "id": "email_43",
+    "content": "From: michael.johnson@example.com\nTo: ava.garcia@example.com\nSubject: Bug Fix Release Notes\nDate: Thu, 23 Jan 2025 01:20:36 \n\nHello ava.garcia@example.com,\n\nThe bug fix release notes has been completed. All tests are passing, and the documentation has been updated accordingly. You can find the latest version in the repository.\n\nPlease review when you have a chance and let me know if any changes are needed.\n\nThanks,\nmichael.johnson@example.com",
+    "metadata": {
+      "subject": "Bug Fix Release Notes",
+      "sender": "michael.johnson@example.com",
+      "recipient": "ava.garcia@example.com",
+      "date": "Thu, 23 Jan 2025 01:20:36 ",
+      "topic": "technical"
+    }
+  },
+  {
+    "id": "email_44",
+    "content": "From: david.miller@example.com\nTo: ava.garcia@example.com\nSubject: Project Status Update\nDate: Fri, 07 Feb 2025 01:20:36 \n\nDear ava.garcia@example.com,\n\nI wanted to provide an update on our current business activities. project status update is progressing well, and we're on track to meet our quarterly targets. The team has been working diligently to ensure all deliverables are met on time.\n\nPlease review the attached documents and let me know if you have any questions or concerns.\n\nBest regards,\ndavid.miller@example.com",
+    "metadata": {
+      "subject": "Project Status Update",
+      "sender": "david.miller@example.com",
+      "recipient": "ava.garcia@example.com",
+      "date": "Fri, 07 Feb 2025 01:20:36 ",
+      "topic": "business"
+    }
+  },
+  {
+    "id": "email_45",
+    "content": "From: john.doe@example.com\nTo: charlotte.robinson@example.com\nSubject: Happy Birthday!\nDate: Mon, 24 Feb 2025 01:20:36 \n\nDear charlotte.robinson@example.com,\n\nI wanted to reach out regarding the happy birthday!. I've been thinking about it a lot lately and would appreciate your input.\n\nCould we schedule a call to discuss it further?\n\nTake care,\njohn.doe@example.com",
+    "metadata": {
+      "subject": "Happy Birthday!",
+      "sender": "john.doe@example.com",
+      "recipient": "charlotte.robinson@example.com",
+      "date": "Mon, 24 Feb 2025 01:20:36 ",
+      "topic": "personal"
+    }
+  },
+  {
+    "id": "email_46",
+    "content": "From: emily.williams@example.com\nTo: olivia.thomas@example.com\nSubject: Quarterly Business Review\nDate: Fri, 25 Apr 2025 01:20:36 \n\nDear olivia.thomas@example.com,\n\nI wanted to provide an update on our current business activities. quarterly business review is progressing well, and we're on track to meet our quarterly targets. The team has been working diligently to ensure all deliverables are met on time.\n\nPlease review the attached documents and let me know if you have any questions or concerns.\n\nBest regards,\nemily.williams@example.com",
+    "metadata": {
+      "subject": "Quarterly Business Review",
+      "sender": "emily.williams@example.com",
+      "recipient": "olivia.thomas@example.com",
+      "date": "Fri, 25 Apr 2025 01:20:36 ",
+      "topic": "business"
+    }
+  },
+  {
+    "id": "email_47",
+    "content": "From: emily.williams@example.com\nTo: emma.martin@example.com\nSubject: Project Status Update\nDate: Wed, 20 Nov 2024 01:20:36 \n\nHello emma.martin@example.com,\n\nI'm writing to follow up on the project status update. The executive team has reviewed our proposal and provided some feedback that we should incorporate before the final submission.\n\nCould we connect tomorrow to go through these changes?\n\nRegards,\nemily.williams@example.com",
+    "metadata": {
+      "subject": "Project Status Update",
+      "sender": "emily.williams@example.com",
+      "recipient": "emma.martin@example.com",
+      "date": "Wed, 20 Nov 2024 01:20:36 ",
+      "topic": "business"
+    }
+  },
+  {
+    "id": "email_48",
+    "content": "From: jane.smith@example.com\nTo: sophia.white@example.com\nSubject: Deployment Schedule Update\nDate: Thu, 21 Nov 2024 01:20:36 \n\nDear sophia.white@example.com,\n\nI've reviewed the code for the deployment schedule update and have some suggestions for improvements. The current implementation works, but there are a few optimizations we could make to enhance performance.\n\nLet me know if you'd like to discuss these in more detail.\n\nRegards,\njane.smith@example.com",
+    "metadata": {
+      "subject": "Deployment Schedule Update",
+      "sender": "jane.smith@example.com",
+      "recipient": "sophia.white@example.com",
+      "date": "Thu, 21 Nov 2024 01:20:36 ",
+      "topic": "technical"
+    }
+  },
+  {
+    "id": "email_49",
+    "content": "From: robert.brown@example.com\nTo: charlotte.robinson@example.com\nSubject: System Outage Notification\nDate: Wed, 05 Mar 2025 01:20:36 \n\nHello charlotte.robinson@example.com,\n\nThe system outage notification has been completed. All tests are passing, and the documentation has been updated accordingly. You can find the latest version in the repository.\n\nPlease review when you have a chance and let me know if any changes are needed.\n\nThanks,\nrobert.brown@example.com",
+    "metadata": {
+      "subject": "System Outage Notification",
+      "sender": "robert.brown@example.com",
+      "recipient": "charlotte.robinson@example.com",
+      "date": "Wed, 05 Mar 2025 01:20:36 ",
+      "topic": "technical"
+    }
+  },
+  {
+    "id": "email_50",
+    "content": "From: john.doe@example.com\nTo: charlotte.robinson@example.com\nSubject: Family Reunion Planning\nDate: Mon, 16 Dec 2024 01:20:36 \n\nHi charlotte.robinson@example.com,\n\nI hope this email finds you well! I'm excited about the upcoming family reunion planning and wanted to see if you're planning to attend.\n\nIt would be great to see you there. Let me know your thoughts.\n\nBest wishes,\njohn.doe@example.com",
+    "metadata": {
+      "subject": "Family Reunion Planning",
+      "sender": "john.doe@example.com",
+      "recipient": "charlotte.robinson@example.com",
+      "date": "Mon, 16 Dec 2024 01:20:36 ",
+      "topic": "personal"
+    }
+  },
+  {
+    "id": "email_51",
+    "content": "From: jennifer.wilson@example.com\nTo: benjamin.harris@example.com\nSubject: API Documentation Update\nDate: Sat, 04 Jan 2025 01:20:36 \n\nDear benjamin.harris@example.com,\n\nI've reviewed the code for the api documentation update and have some suggestions for improvements. The current implementation works, but there are a few optimizations we could make to enhance performance.\n\nLet me know if you'd like to discuss these in more detail.\n\nRegards,\njennifer.wilson@example.com",
+    "metadata": {
+      "subject": "API Documentation Update",
+      "sender": "jennifer.wilson@example.com",
+      "recipient": "benjamin.harris@example.com",
+      "date": "Sat, 04 Jan 2025 01:20:36 ",
+      "topic": "technical"
+    }
+  },
+  {
+    "id": "email_52",
+    "content": "From: sarah.davis@example.com\nTo: olivia.thomas@example.com\nSubject: Bug Fix Release Notes\nDate: Mon, 25 Nov 2024 01:20:36 \n\nHi olivia.thomas@example.com,\n\nI'm reaching out regarding the bug fix release notes. We've identified a critical issue in the production environment that needs immediate attention. The team is currently working on a fix and will deploy it as soon as it's ready.\n\nI'll keep you updated on the progress.\n\nBest,\nsarah.davis@example.com",
+    "metadata": {
+      "subject": "Bug Fix Release Notes",
+      "sender": "sarah.davis@example.com",
+      "recipient": "olivia.thomas@example.com",
+      "date": "Mon, 25 Nov 2024 01:20:36 ",
+      "topic": "technical"
+    }
+  },
+  {
+    "id": "email_53",
+    "content": "From: william.moore@example.com\nTo: alex.anderson@example.com\nSubject: Code Review Feedback\nDate: Sat, 07 Dec 2024 01:20:36 \n\nHello alex.anderson@example.com,\n\nThe code review feedback has been completed. All tests are passing, and the documentation has been updated accordingly. You can find the latest version in the repository.\n\nPlease review when you have a chance and let me know if any changes are needed.\n\nThanks,\nwilliam.moore@example.com",
+    "metadata": {
+      "subject": "Code Review Feedback",
+      "sender": "william.moore@example.com",
+      "recipient": "alex.anderson@example.com",
+      "date": "Sat, 07 Dec 2024 01:20:36 ",
+      "topic": "technical"
+    }
+  },
+  {
+    "id": "email_54",
+    "content": "From: michael.johnson@example.com\nTo: alex.anderson@example.com\nSubject: Deployment Schedule Update\nDate: Mon, 24 Mar 2025 01:20:36 \n\nHello alex.anderson@example.com,\n\nThe deployment schedule update has been completed. All tests are passing, and the documentation has been updated accordingly. You can find the latest version in the repository.\n\nPlease review when you have a chance and let me know if any changes are needed.\n\nThanks,\nmichael.johnson@example.com",
+    "metadata": {
+      "subject": "Deployment Schedule Update",
+      "sender": "michael.johnson@example.com",
+      "recipient": "alex.anderson@example.com",
+      "date": "Mon, 24 Mar 2025 01:20:36 ",
+      "topic": "technical"
+    }
+  },
+  {
+    "id": "email_55",
+    "content": "From: john.doe@example.com\nTo: daniel.thompson@example.com\nSubject: Family Reunion Planning\nDate: Tue, 04 Mar 2025 01:20:36 \n\nDear daniel.thompson@example.com,\n\nI wanted to reach out regarding the family reunion planning. I've been thinking about it a lot lately and would appreciate your input.\n\nCould we schedule a call to discuss it further?\n\nTake care,\njohn.doe@example.com",
+    "metadata": {
+      "subject": "Family Reunion Planning",
+      "sender": "john.doe@example.com",
+      "recipient": "daniel.thompson@example.com",
+      "date": "Tue, 04 Mar 2025 01:20:36 ",
+      "topic": "personal"
+    }
+  },
+  {
+    "id": "email_56",
+    "content": "From: lisa.taylor@example.com\nTo: olivia.thomas@example.com\nSubject: Vacation Plans\nDate: Sat, 18 Jan 2025 01:20:36 \n\nDear olivia.thomas@example.com,\n\nI wanted to reach out regarding the vacation plans. I've been thinking about it a lot lately and would appreciate your input.\n\nCould we schedule a call to discuss it further?\n\nTake care,\nlisa.taylor@example.com",
+    "metadata": {
+      "subject": "Vacation Plans",
+      "sender": "lisa.taylor@example.com",
+      "recipient": "olivia.thomas@example.com",
+      "date": "Sat, 18 Jan 2025 01:20:36 ",
+      "topic": "personal"
+    }
+  },
+  {
+    "id": "email_57",
+    "content": "From: emily.williams@example.com\nTo: james.jackson@example.com\nSubject: Code Review Feedback\nDate: Fri, 29 Nov 2024 01:20:36 \n\nHi james.jackson@example.com,\n\nI'm reaching out regarding the code review feedback. We've identified a critical issue in the production environment that needs immediate attention. The team is currently working on a fix and will deploy it as soon as it's ready.\n\nI'll keep you updated on the progress.\n\nBest,\nemily.williams@example.com",
+    "metadata": {
+      "subject": "Code Review Feedback",
+      "sender": "emily.williams@example.com",
+      "recipient": "james.jackson@example.com",
+      "date": "Fri, 29 Nov 2024 01:20:36 ",
+      "topic": "technical"
+    }
+  },
+  {
+    "id": "email_58",
+    "content": "From: robert.brown@example.com\nTo: ava.garcia@example.com\nSubject: System Outage Notification\nDate: Fri, 04 Apr 2025 01:20:36 \n\nHello ava.garcia@example.com,\n\nThe system outage notification has been completed. All tests are passing, and the documentation has been updated accordingly. You can find the latest version in the repository.\n\nPlease review when you have a chance and let me know if any changes are needed.\n\nThanks,\nrobert.brown@example.com",
+    "metadata": {
+      "subject": "System Outage Notification",
+      "sender": "robert.brown@example.com",
+      "recipient": "ava.garcia@example.com",
+      "date": "Fri, 04 Apr 2025 01:20:36 ",
+      "topic": "technical"
+    }
+  },
+  {
+    "id": "email_59",
+    "content": "From: michael.johnson@example.com\nTo: daniel.thompson@example.com\nSubject: Bug Fix Release Notes\nDate: Sat, 03 May 2025 01:20:36 \n\nHello daniel.thompson@example.com,\n\nThe bug fix release notes has been completed. All tests are passing, and the documentation has been updated accordingly. You can find the latest version in the repository.\n\nPlease review when you have a chance and let me know if any changes are needed.\n\nThanks,\nmichael.johnson@example.com",
+    "metadata": {
+      "subject": "Bug Fix Release Notes",
+      "sender": "michael.johnson@example.com",
+      "recipient": "daniel.thompson@example.com",
+      "date": "Sat, 03 May 2025 01:20:36 ",
+      "topic": "technical"
+    }
+  },
+  {
+    "id": "email_60",
+    "content": "From: william.moore@example.com\nTo: james.jackson@example.com\nSubject: Project Status Update\nDate: Mon, 05 May 2025 01:20:36 \n\nHello james.jackson@example.com,\n\nI'm writing to follow up on the project status update. The executive team has reviewed our proposal and provided some feedback that we should incorporate before the final submission.\n\nCould we connect tomorrow to go through these changes?\n\nRegards,\nwilliam.moore@example.com",
+    "metadata": {
+      "subject": "Project Status Update",
+      "sender": "william.moore@example.com",
+      "recipient": "james.jackson@example.com",
+      "date": "Mon, 05 May 2025 01:20:36 ",
+      "topic": "business"
+    }
+  }
+]
